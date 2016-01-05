@@ -40,20 +40,20 @@ The chain of true prevent usage of **not** in the global expression
 
 ##Some examples
 
-Simple OR
+###Simple OR
 ![or](https://raw.githubusercontent.com/pocamin/ComplexEventLogic/master/readme/Algo%20-%20cbl%20-%20or.png)
 
 true if
 * B is true at 0 and A is true at -4
 * C is true at 0 and A is true at -4
 
-##Simple and
+###Simple and
 ![And](https://raw.githubusercontent.com/pocamin/ComplexEventLogic/master/readme/ALGO%20-%20CBL%20-%20AND.png)
 
 true if
 * B is true at 0 and C is true at 0 (conventional) and A is true at 5
 
-##AND and then OR
+###AND and then OR
 ![And then or](https://raw.githubusercontent.com/pocamin/ComplexEventLogic/master/readme/And%20and%20then%20OR.png)
 
 True if
